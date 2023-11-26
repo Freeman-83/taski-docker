@@ -85,7 +85,7 @@ sudo docker compose -f docker-compose.production.yml stop         # без уд�
 
 - Клонировать репозиторий:
 ```
-https://github.com/Freeman-83/foodgram-project-react
+https://github.com/Freeman-83/taski-docker
 ```
 
 - В директории infra в файле .env указать следующие данные:
